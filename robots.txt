@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marianacardoso07.github.io/trabalhodosite1504/sitemap.xml
